@@ -43,5 +43,5 @@ weight = 10
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Github repo"
 identifier = "gr"
-url = "https://github.com/peteraba/roadmapper"
+url = "https://github.com/peteraba/roadmapper-doc"
 weight = 20
