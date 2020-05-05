@@ -15,6 +15,6 @@ It supports:
 Integrating into static site generator workflows (e.g. [Hugo](https://gohugo.io/))
 
 ```bash
-roadmapper c -i 34sgkhkA
+roadmapper cli -f png -i roadmap.txt -o roadmap.png
 hugo --theme=hugo-bootstrap --verbose
 ```

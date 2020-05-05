@@ -20,11 +20,11 @@ Here are the steps we recommend for development on [Roadmapper](https://github.c
 
 ## Roadmapper CLI
 
-To work on the cli you need nothing else then the above. You should be able to change the code to your liking and either build a new version with `make build` or just run `go run . c`.
+1. To work on the cli you need nothing else then the above. You should be able to change the code to your liking and either build a new version with `make build` or just run `go run . c`.
 
-Run `make test` to ensure your code did not break existing functionality.
+1. Run `make test` to ensure your code did not break existing functionality.
 
-If you'd prefer to have live feedback about your changes, you can install [air](https://github.com/cosmtrek/air) and start it in some dedicated terminal window.
+1. If you'd prefer to have live feedback about your changes, you can install [air](https://github.com/cosmtrek/air) and start it in some dedicated terminal window.
 
 
 ## Roadmapper web service

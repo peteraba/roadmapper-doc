@@ -7,4 +7,4 @@ weight: 20
 
 [rdmp.app](https://rdmp.app) is a free to use, online service, based on the open source project [Roadmapper](https://github.com/peteraba/roadmapper).
 
-Please note that while `rdmp.app` is free to use, it may converge from the open source offering, may be shut down, or may even introduce features not available in the open source versions without further notice.
+Please note that while `rdmp.app` is free to use, it may converge from the open source offering, may be shut down without prior notice or may even introduce features and or restrictions not present in the open source versions without further notice.

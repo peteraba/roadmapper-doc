@@ -13,8 +13,8 @@ The best way to support the project is to star it on [Github](https://github.com
 
 ### rdmp.app
 
-Rdmp.app requires a domain and hardware to operate, plus regular maintenance. This means it costs money and it's not necessarily cheap, even if we generally recommend a self-hosted solution.
+**Rdmp.app** requires a domain and hardware to operate, plus regular maintenance. This means it costs money and it's not necessarily cheap, even if we generally recommend a self-hosted solution.
 
-The current plan is that the continuous development of the project will be mostly founded by some sort of advertisement on [rdmp.app](https://rdmp.app). Should this not work out as we see it fit, might eventually set up a way to donate to this project.
+The current plan is that the continuous development of the project will be mostly founded by some sort of advertisement on [rdmp.app](https://rdmp.app).
 
 In the meanwhile, the best way to support the project is to star it on [Github](https://github.com/peteraba/roadmapper).
